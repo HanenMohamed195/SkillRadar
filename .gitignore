@@ -23,3 +23,8 @@ venv/
 
 # System
 .DS_Store
+
+Backend/.env
+
+.venv*/
+venv*/
